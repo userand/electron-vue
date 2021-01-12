@@ -1,2 +1,2 @@
-# electron-vue
-electron-vue模板,使用electron11
+# electron-vue-template
+electron-vue模板，使用electron11版本
